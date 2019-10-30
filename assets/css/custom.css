@@ -1,0 +1,104 @@
+p{
+    color: #86817D;
+}
+
+h1{
+    color: #86817D;
+}
+
+h2{
+    color: #86817D;
+}
+
+h3{
+    color: #86817D;
+}
+
+h4{
+    color: #86817D;
+}
+
+h5{
+    color: #86817D;
+}
+
+.personagem{
+    -webkit-box-shadow: 0px 0px 52px -12px rgba(0,0,0,0.59);
+    -moz-box-shadow: 0px 0px 52px -12px rgba(0,0,0,0.59);
+    box-shadow: 0px 0px 52px -12px rgba(0,0,0,0.59);
+}
+
+/* HEROIS */
+.heroi-name{
+    color: #86817D;
+}
+
+.heroi-bio{
+    color: #86817D;
+}
+
+.heroi-skills{
+    color: #86817D;
+}
+
+/* CONTATO */
+.contato-titulo{
+    margin-top: 25px;
+    color: #86817D;
+}
+.heroi-page{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #86817D;
+}
+.no-margin{
+
+}
+.descricao-contato{
+    color: #86817D;
+}
+.contato-hr{
+    background-color: #86817D;
+}
+
+/* HERÓI DETALHE */
+.heroiH1{
+    color: #86817D;
+    margin-top: 50px;
+}
+
+/* FOOTER */
+
+footer{
+    color: #86817D;
+}
+footer a{
+    color: #aaa5a1;
+}
+footer a:hover{
+    color: #c2bdb9;
+}
+
+.footer-bottom{
+    background: #1B1D1D;
+    padding: 1em;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 59px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 59px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 59px 2px rgba(0,0,0,0.75);
+}
+
+.footer-middle{
+    -webkit-box-shadow: 0px 0px 59px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 59px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 59px 2px rgba(0,0,0,0.75);
+    background-image: linear-gradient( to top, #171717, #111111, #040404, #010101 );
+    padding-top: 2em;
+    color: #86817D;
+}
+.alerta{
+    padding-top: 16px;
+}
+.atalhos{
+    margin-left: 5px;
+}
